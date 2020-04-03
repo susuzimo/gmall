@@ -13,6 +13,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.List;
 
+/*
+分类
+ */
 @Controller
 @CrossOrigin
 public class CatalogController {
